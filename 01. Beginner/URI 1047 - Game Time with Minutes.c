@@ -3,16 +3,19 @@ int main()
 {
     int sh, sm, eh, em, hour, min;
     scanf("%d%d%d%d", &sh, &sm, &eh, &em);
-    if(sh < eh){
+    if(sh < eh) {
        hour = eh - sh;
-    } else if(eh < sh){
+    } else if(eh < sh) {
         hour = 24 - sh + eh;
     } else {
         hour = 24;
     }
-    if(sm < em){
+    if(sm < em) {
        min = em - sm;
-    } else if(em < sm){
+       if (sh == eh) {
+           hour = 0;
+       }
+    } else if(em < sm) {
         min = 60 - sm + em;
         hour = hour - 1;
     } else {
