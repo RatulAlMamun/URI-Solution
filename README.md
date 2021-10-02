@@ -9,4 +9,4 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 <br>
 <br>
 <strong>Contact with Me</strong><br> 
-Gmail    : ratulalmamun23@gmail.com
+E-mail    : ratulalmamun23@gmail.com
