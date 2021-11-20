@@ -1,0 +1,59 @@
+==========================================================================
+                                Task 1
+==========================================================================
+- Point the main "/" URL to the HomeController method "index"
+- "index" method will return any string
+
+==========================================================================
+                                Task 2
+==========================================================================
+- Point the GET URL "/user/[name]" to the UserController method "show"
+- "show" method will return the [name]
+
+==========================================================================
+                                Task 3
+==========================================================================
+- Point the GET URL "/about" to the view
+- return some blade will be better, or return any string - without any controller
+- Also, assign the route name "about"
+
+==========================================================================
+                                Task 4
+==========================================================================
+- Redirect the GET URL "log-in" to a URL "login"
+
+==========================================================================
+                                Task 5
+==========================================================================
+- Group the following route sentences below in Route::group()
+- Assign middleware "auth"
+- "Task 6" will be inside in "Task 5" group
+
+==========================================================================
+                                Task 6
+==========================================================================
+- Add another group for routes with prefix "app"
+- "Task 7" will be inside in "Task 6" group
+
+==========================================================================
+                                Task 7
+==========================================================================
+- Point URL /app/dashboard to a "Single Action" DashboardController
+- Assign the route name "dashboard"
+- This route will be inside of "Task 6" group
+- End of the /app Route Group
+
+==========================================================================
+                                Task 8
+==========================================================================
+- Create a group within a group of "Task 5" with bleow attribute
+- Add a group for routes with URL prefix "admin"
+- Assign middleware called "is_admin" to them
+
+==========================================================================
+                                Task 9
+==========================================================================
+- Create a group that /admin group:
+- Point URL /admin/dashboard to a "Single Action" Admin/DashboardController
+- Point URL /admin/stats to a "Single Action" Admin/StatsController
+- End of all group
