@@ -17,7 +17,7 @@ while True:
     for i in range(n+q):
         if i < n:
             lista.append(int(input()))
-        if i == (n-1):
+        if i == (n - 1):
             lista.sort()
         if i >= n:
             pesq = int(input())
