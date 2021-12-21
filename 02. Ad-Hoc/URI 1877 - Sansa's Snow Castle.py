@@ -11,4 +11,3 @@ if peaks == K and valleys == K - 1:
     print("beautiful")
 else:
     print("ugly")
-        
