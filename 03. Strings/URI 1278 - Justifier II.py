@@ -1,10 +1,10 @@
 test = int(input())
-firt_test = True
+firstTest = True
 while True:
     if test == 0:
         break
-    if firt_test:
-        firt_test = False
+    if firstTest:
+        firstTest = False
     else:
         print()
     sentence_group = []
