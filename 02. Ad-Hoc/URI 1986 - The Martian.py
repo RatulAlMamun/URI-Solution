@@ -1,0 +1,5 @@
+n = int(input())
+wordInHex = input().split()
+wordInList = list(map(lambda x: chr(int(x, 16)), wordInHex))
+word = ''.join(map(str, wordInList)) 
+print(word)
