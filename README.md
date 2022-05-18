@@ -1,6 +1,6 @@
 # URI-Solution
 
-Here, I've added some URI problem solutions that I solved in C, C++, Python and SQL.You can use these URI Online judge solutions in your coding time.
+Here, I've added some URI problem solutions that I solved in C, C++, Python and SQL.You can use these URI Online judge solutions in your coding time...
 
 <h2><em>N:B: "Before seeing the solution make sure that you tried enough"</em></h2>
 
