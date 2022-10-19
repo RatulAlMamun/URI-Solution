@@ -9,3 +9,5 @@ while(True):
         print(result)
     except EOFError:
         break
+
+        
