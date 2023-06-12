@@ -7,7 +7,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 <p>I'm Trying to add more Solutions... Keep in touch!</p>
 
 ## Added Solution List
-### 01. Beginer
+### 01. Beginner (290 Solved)
 <ol>
     <li>URI 1000 - Hello World!.py</li>
     <li>URI 1001 - Extremely Basic.c</li>
