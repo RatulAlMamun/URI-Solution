@@ -298,4 +298,123 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 3302 - Correct Answer.py</li>
     <li>URI 3303 - Big Word.py</li>
     <li>URI 3342 - Keanu.py</li>
-</ol> 
+</ol>
+
+### 02. Ad-Hoc (114 Solved)
+
+<ol>
+    <li>URI 1026 - To Carry or not to Carry.c</li>
+    <li>URI 1030 - Flavious Josephus Legend.cpp</li>
+    <li>URI 1031 - Power Crisis.py</li>
+    <li>URI 1087 - Queen.c</li>
+    <li>URI 1089 - Musical Loop.py</li>
+    <li>URI 1091 - Division of Nlogonia.py</li>
+    <li>URI 1103 - Alarm Clock.c</li>
+    <li>URI 1104 - Exchanging Cards.py</li>
+    <li>URI 1105 - Sub-prime.py</li>
+    <li>URI 1129 - Optical Reader.py</li>
+    <li>URI 1140 - Flowers Flurish from France.py</li>
+    <li>URI 1171 - Number Frequence.c</li>
+    <li>URI 1192 - Paula's Mathematic Game.py</li>
+    <li>URI 1196 - WERTYU.py</li>
+    <li>URI 1216 - Getline One.c</li>
+    <li>URI 1217 - Getline Two - Fruits.py</li>
+    <li>URI 1245 - Lost Boots.py</li>
+    <li>URI 1250 - KiloMan.py</li>
+    <li>URI 1267 - Pascal Library.py</li>
+    <li>URI 1285 - Different Digits.py</li>
+    <li>URI 1300 - Hours and Minutes.py</li>
+    <li>URI 1318 - Fake Tickets.py</li>
+    <li>URI 1329 - Head or Tail.c</li>
+    <li>URI 1379 - Mean Median Problem.py</li>
+    <li>URI 1383 - Sudoku.py</li>
+    <li>URI 1387 - Og.c</li>
+    <li>URI 1397 - Game of The Greatest.c</li>
+    <li>URI 1410 - He is Offside!.py</li>
+    <li>URI 1428 - Searching for Nessy.py</li>
+    <li>URI 1437 - Turn Left!.c</li>
+    <li>URI 1467 - Zero or One.c</li>
+    <li>URI 1471 - Dangerous Dive.py</li>
+    <li>URI 1514 - Contest.py</li>
+    <li>URI 1515 - Hello Galaxy.py</li>
+    <li>URI 1533 - Detective Watson.py</li>
+    <li>URI 1536 - Libertadores.c</li>
+    <li>URI 1542 - Reading Books.c</li>
+    <li>URI 1546 - Feedback.c</li>
+    <li>URI 1547 - Guess What.c</li>
+    <li>URI 1553 - Frequent Asked Questions.py</li>
+    <li>URI 1558 - Sum of Two Squares.py</li>
+    <li>URI 1573 - Chocolate Factory.py</li>
+    <li>URI 1574 - Robot Instructions.c</li>
+    <li>URI 1578 - Matrix of Squares.cpp</li>
+    <li>URI 1609 - Counting Sheep.py</li>
+    <li>URI 1612 - Little Ant.cpp</li>
+    <li>URI 1618 - Colision.cpp</li>
+    <li>URI 1708 - Lap.py</li>
+    <li>URI 1715 - Handball.py</li>
+    <li>URI 1743 - Automated Checking Machine.c</li>
+    <li>URI 1769 - SSN 1.cpp</li>
+    <li>URI 1793 - Escalator.py</li>
+    <li>URI 1794 - Laundry.c</li>
+    <li>URI 1796 - Brazilian Economy.c</li>
+    <li>URI 1867 - The Greater One-digit Number.cpp</li>
+    <li>URI 1877 - Sansa's Snow Castle.py</li>
+    <li>URI 1890 - Putting Plates on the Tuk-tuks.py</li>
+    <li>URI 1893 - Moon Phases.cpp</li>
+    <li>URI 1901 - Butterflies.cpp</li>
+    <li>URI 1936 - Factorial.py</li>
+    <li>URI 1943 - Top N.c</li>
+    <li>URI 1953 - Robert and Rampant Room.py</li>
+    <li>URI 1980 - Shuffling.cpp</li>
+    <li>URI 1986 - The Martian.py</li>
+    <li>URI 1987 - Divisibility by 3.cpp</li>
+    <li>URI 2058 - Triangles and Regular Polygons.cpp</li>
+    <li>URI 2116 - Students Game.py</li>
+    <li>URI 2175 - What is the Fastest?.cpp</li>
+    <li>URI 2217 - Nove.py</li>
+    <li>URI 2293 - Campo de Minhocas.py</li>
+    <li>URI 2295 - Frota de Táxi.py</li>
+    <li>URI 2328 - Chocolate.py</li>
+    <li>URI 2339 - Aviões de Papel.py</li>
+    <li>URI 2342 - Overflow.py</li>
+    <li>URI 2369 - Conta de Água.py</li>
+    <li>URI 2373 - Garçom.py</li>
+    <li>URI 2374 - Pneu.cpp</li>
+    <li>URI 2375 - Sedex.py</li>
+    <li>URI 2377 - Pedágio.py</li>
+    <li>URI 2378 - Elevator.py</li>
+    <li>URI 2381 - Lista de Chamada.py</li>
+    <li>URI 2386 - Telescópio.py</li>
+    <li>URI 2388 - Tacógrafo.py</li>
+    <li>URI 2395 - Transporte de Contêineres.py</li>
+    <li>URI 2396 - Corrida.py</li>
+    <li>URI 2408 - Vice-Campeão.py</li>
+    <li>URI 2413 - Busca na Internet.py</li>
+    <li>URI 2414 - Desafio do Maior Número.py</li>
+    <li>URI 2416 - Corrida.py</li>
+    <li>URI 2417 - Campeonato.py</li>
+    <li>URI 2420 - Guerra por Território.py</li>
+    <li>URI 2423 - Receita de Bolo.py</li>
+    <li>URI 2424 - Tira-teima.py</li>
+    <li>URI 2427 - Chocolate.py</li>
+    <li>URI 2434 - Saldo do Vovô.py</li>
+    <li>URI 2444 - Volume da TV.py</li>
+    <li>URI 2454 - Flíper.c</li>
+    <li>URI 2455 - Gangorra.py</li>
+    <li>URI 2456 - Cards.py</li>
+    <li>URI 2457 - Letras.py</li>
+    <li>URI 2464 - Decifra.py</li>
+    <li>URI 2466 - Sansa's Snow Castle.py</li>
+    <li>URI 2472 - Tapetes.py</li>
+    <li>URI 2473 - Loteria.py</li>
+    <li>URI 2479 - Sorting Santa's List of Children.py</li>
+    <li>URI 2556 - CEI's Reopening.py</li>
+    <li>URI 2568 - Actions.py</li>
+    <li>URI 2592 - VaiNaSort.py</li>
+    <li>URI 2679 - Even Successor.c</li>
+    <li>URI 2682 - Fault Detector.c</li>
+    <li>URI 2926 - So This is Christmas!.py</li>
+    <li>URI 2928 - Crossing Lakes.py</li>
+    <li>URI 3024 - Mountain Ranges.py</li>
+    <li>URI 3048 - Sequência Secreta.py</li>
+</ol>
