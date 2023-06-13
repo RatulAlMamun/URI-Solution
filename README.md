@@ -7,8 +7,13 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 <p>I'm Trying to add more Solutions... Keep in touch!</p>
 
 ## Added Solution List
-### 01. Beginner (290 Solved)
-<ol>
+
+<details style="margin-bottom: 15px">
+  <summary>
+    <h3 style="display:inline">01. Beginner (290 Solved)</h3>
+  </summary>
+  
+  <ol>
     <li>URI 1000 - Hello World!.py</li>
     <li>URI 1001 - Extremely Basic.c</li>
     <li>URI 1002 - Area of a Circle.c</li>
@@ -298,11 +303,14 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 3302 - Correct Answer.py</li>
     <li>URI 3303 - Big Word.py</li>
     <li>URI 3342 - Keanu.py</li>
-</ol>
+  </ol>
+</details>
 
-### 02. Ad-Hoc (114 Solved)
 
-<ol>
+<details style="margin-bottom: 15px">
+  <summary><h3 style="display:inline">02. Ad-Hoc (114 Solved)</h3></summary>
+  
+  <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
     <li>URI 1030 - Flavious Josephus Legend.cpp</li>
     <li>URI 1031 - Power Crisis.py</li>
@@ -313,7 +321,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1104 - Exchanging Cards.py</li>
     <li>URI 1105 - Sub-prime.py</li>
     <li>URI 1129 - Optical Reader.py</li>
-    <li>URI 1140 - Flowers Flurish from France.py</li>
+    <li>URI 1140 - Flowers Fl<li>urish from France.py</li>
     <li>URI 1171 - Number Frequence.c</li>
     <li>URI 1192 - Paula's Mathematic Game.py</li>
     <li>URI 1196 - WERTYU.py</li>
@@ -417,4 +425,5 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2928 - Crossing Lakes.py</li>
     <li>URI 3024 - Mountain Ranges.py</li>
     <li>URI 3048 - Sequência Secreta.py</li>
-</ol>
+  </ol>
+</details>
