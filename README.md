@@ -8,7 +8,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 ## Added Solution List
 
-<details style="margin-bottom: 15px">
+<details style="margin-bottom: 10px">
   <summary>
     <h3 style="display:inline">01. Beginner (290 Solved)</h3>
   </summary>
@@ -307,7 +307,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 
-<details style="margin-bottom: 15px">
+<details style="margin-bottom: 10px">
   <summary><h3 style="display:inline">02. Ad-Hoc (114 Solved)</h3></summary>
   
   <ol>
@@ -425,5 +425,64 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2928 - Crossing Lakes.py</li>
     <li>URI 3024 - Mountain Ranges.py</li>
     <li>URI 3048 - Sequência Secreta.py</li>
+  </ol>
+</details>
+
+<details style="margin-bottom: 10px">
+  <summary><h3 style="display:inline">03. Strings (52 Solved)</h3></summary>
+  
+  <ol>
+    <li>URI 1024 - Encryption.c</li>
+    <li>URI 1120 - Contract Revision.c</li>
+    <li>URI 1168 - LED.c</li>
+    <li>URI 1234 - Dancing Sentence.c</li>
+    <li>URI 1235 - Inside Out.c</li>
+    <li>URI 1237 - Compare Substring.py</li>
+    <li>URI 1238 - Combiner.c</li>
+    <li>URI 1239 - Bloggo Shortcuts.py</li>
+    <li>URI 1241 - Fit or Dont Fit II.c</li>
+    <li>URI 1248 - Diet Plan.py</li>
+    <li>URI 1249 - Rot13.c</li>
+    <li>URI 1253 - Caesar Cipher.c</li>
+    <li>URI 1254 - Tag Replacement.py</li>
+    <li>URI 1255 - Letter Frequency.c</li>
+    <li>URI 1257 - Array Hash.c</li>
+    <li>URI 1262 - Multiple Reading.py</li>
+    <li>URI 1263 - Alliteration.py</li>
+    <li>URI 1272 - Hidden Message.c</li>
+    <li>URI 1272 - Hidden Message.py</li>
+    <li>URI 1273 - Justifier.cpp</li>
+    <li>URI 1278 - Justifier II.py</li>
+    <li>URI 1332 - One-Two-Three.c</li>
+    <li>URI 1367 - Help!.py</li>
+    <li>URI 1516 - Image.py</li>
+    <li>URI 1551 - Complete Sentence.cpp</li>
+    <li>URI 1581 - International Chat.py</li>
+    <li>URI 1607 - Advancing Letters.cpp</li>
+    <li>URI 1632 - Variations.py</li>
+    <li>URI 1768 - Christmas Tree.py</li>
+    <li>URI 1803 - Matring.py</li>
+    <li>URI 1871 - Zero means Zero.c</li>
+    <li>URI 1873 - Rock-paper-scissors-lizard-Spock.cpp</li>
+    <li>URI 2023 - The Last Good Kid.cpp</li>
+    <li>URI 2062 - OBI URI.cpp</li>
+    <li>URI 2137 - The Library of Mr Severino.cpp</li>
+    <li>URI 2157 - Mirror Sequence.cpp</li>
+    <li>URI 2174 - Pomekon Collection.py</li>
+    <li>URI 2242 - Huaauhahhuahau.c</li>
+    <li>URI 2253 - Passwords Validator.cpp</li>
+    <li>URI 2356 - Bacteria I.cpp</li>
+    <li>URI 2484 - Abracadabra.cpp</li>
+    <li>URI 2557 - R+L=J.py</li>
+    <li>URI 2587 - Jetiqui.py</li>
+    <li>URI 2588 - Game of Palindromes.py</li>
+    <li>URI 2591 - HameKameKa.py</li>
+    <li>URI 2651 - Upset Link.c</li>
+    <li>URI 2690 - New Password RA.py</li>
+    <li>URI 2691 - The Mathematician.cpp</li>
+    <li>URI 2694 - Problem with the Calculator.c</li>
+    <li>URI 2714 - My Temporary Password.py</li>
+    <li>URI 2866 - Cryptotext.py</li>
+    <li>URI 3300 - Recharged Unlucky Numbers.py</li>
   </ol>
 </details>
