@@ -549,3 +549,66 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2598 - Placing Radars.py</li>
   </ol>
 </details>
+
+<details style="margin-bottom: 10px">
+  <summary><h3 style="display:inline">06. Paradigms (03 Solved)</h3></summary>
+  
+  <ol>
+    <li>URI 1029 - Fibonacci, How Many Calls?.c</li>
+    <li>URI 1608 - Maria's Cakes.py</li>
+    <li>URI 1912 - Help Seu Madruga.cpp</li>
+  </ol>
+</details>
+
+<details style="margin-bottom: 10px">
+  <summary><h3 style="display:inline">08. Computational Geometry (03 Solved)</h3></summary>
+  
+  <ol>
+    <li>URI 1039 - Fire Flowers.py</li>
+    <li>URI 1875 - Tribol.cpp</li>
+    <li>URI 2840 - Balloon++.py</li>
+  </ol>
+</details>
+
+<details style="margin-bottom: 10px">
+  <summary><h3 style="display:inline">09. SQL (36 Solved)</h3></summary>
+  
+  <ol>
+    <li>URI 2602 - Basic Select.sql</li>
+    <li>URI 2603 - Customer Address.sql</li>
+    <li>URI 2604 - Under 10 or Greater Than 100.sql</li>
+    <li>URI 2605 - Executive Representatives.sql</li>
+    <li>URI 2606 - Categories.sql</li>
+    <li>URI 2607 - Providers' City in Alphabetical Order.sql</li>
+    <li>URI 2608 - Higher and Lower Price.sql</li>
+    <li>URI 2609 - Products by Categories.sql</li>
+    <li>URI 2610 - Average Value of Products.sql</li>
+    <li>URI 2611 - Action Movies.sql</li>
+    <li>URI 2613 - Cheap Movies.sql</li>
+    <li>URI 2614 - September Rentals.sql</li>
+    <li>URI 2615 - Expanding the Business.sql</li>
+    <li>URI 2616 - No Rental.sql</li>
+    <li>URI 2617 - Provider Ajax SA.sql</li>
+    <li>URI 2618 - Imported Products.sql</li>
+    <li>URI 2619 - Super Luxury.sql</li>
+    <li>URI 2620 - Orders in First Half.sql</li>
+    <li>URI 2621 - Amounts Between 10 and 20.sql</li>
+    <li>URI 2622 - Legal Person.sql</li>
+    <li>URI 2623 - Categories with Various Products.sql</li>
+    <li>URI 2624 - Number of Cities per Customers.sql</li>
+    <li>URI 2625 - CPF Validation.sql</li>
+    <li>URI 2646 - Viruses.sql</li>
+    <li>URI 2737 - Lawyers.sql</li>
+    <li>URI 2738 - Contest.sql</li>
+    <li>URI 2739 - Payday.sql</li>
+    <li>URI 2740 - League.sql</li>
+    <li>URI 2741 - Students Grades.sql</li>
+    <li>URI 2742 - Richard's Multiverse.sql</li>
+    <li>URI 2743 - Number of Characters.sql</li>
+    <li>URI 2744 - Passwords.sql</li>
+    <li>URI 2745 - Taxes.sql</li>
+    <li>URI 2990 - Employees CPF.sql</li>
+    <li>URI 2993 - Most Frequent.sql</li>
+    <li>URI 2994 - How much earn a Doctor?.sql</li>
+  </ol>
+</details>
