@@ -486,3 +486,66 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 3300 - Recharged Unlucky Numbers.py</li>
   </ol>
 </details>
+
+<details style="margin-bottom: 10px">
+  <summary><h3 style="display:inline">04. Data Structures and Libraries (13 Solved)</h3></summary>
+  
+  <ol>
+    <li>URI 1022 - TDA Rational.c</li>
+    <li>URI 1023 - Drought.c</li>
+    <li>URI 1025 - Where is the Marble?.py</li>
+    <li>URI 1068 - Parenthesis Balance I.c</li>
+    <li>URI 1069 - Diamonds and Sand.c</li>
+    <li>URI 1110 - Throwing Cards Away.c</li>
+    <li>URI 1162 - Train Swapping.py</li>
+    <li>URI 1244 - Sort by Length.py</li>
+    <li>URI 1256 - Hash Tables.py</li>
+    <li>URI 1259 - Even and Odd.c</li>
+    <li>URI 1281 - Going to the Market.py</li>
+    <li>URI 1430 - Jingle Composing.py</li>
+    <li>URI 1548 - Canteen Queue.c</li>
+  </ol>
+</details>
+
+<details style="margin-bottom: 10px">
+  <summary><h3 style="display:inline">05. Mathmetics (36 Solved)</h3></summary>
+  
+  <ol>
+    <li>URI 1028 - Collectable Cards.c</li>
+    <li>URI 1161 - Factorial Sum.c</li>
+    <li>URI 1169 - Grains in a Chess Board.c</li>
+    <li>URI 1170 - Blobs.c</li>
+    <li>URI 1193 - Base Conversion.py</li>
+    <li>URI 1197 - Back to High School Physics.c</li>
+    <li>URI 1198 - Hashmat the Brave Warrior.c</li>
+    <li>URI 1199 - Simple Base Conversion.py</li>
+    <li>URI 1212 - Primary Arithmetic.py</li>
+    <li>URI 1214 -  Above Average.cpp</li>
+    <li>URI 1221 - Fast Prime Number.c</li>
+    <li>URI 1240 - Fit or Dont Fit I.c</li>
+    <li>URI 1247 - Coast Guard.py</li>
+    <li>URI 1323 - Feynman.py</li>
+    <li>URI 1393 - Hexagonal Tiles.py</li>
+    <li>URI 1429 - Factorial Again!.py</li>
+    <li>URI 1436 - Brick Game.c</li>
+    <li>URI 1457 - Oracle of Alexandria.py</li>
+    <li>URI 1555 - Functions.c</li>
+    <li>URI 1582 - The Pythagorean Theorem.cpp</li>
+    <li>URI 1585 - Making Kites.c</li>
+    <li>URI 1620 - Delaunay Triangulation.cpp</li>
+    <li>URI 1630 - Stakes.py</li>
+    <li>URI 1760 - Koch Snowflake.py</li>
+    <li>URI 1761 - Christmas Decorations.py</li>
+    <li>URI 1795 - Trinomial Triangle.c</li>
+    <li>URI 1805 - Natural Sum.c</li>
+    <li>URI 1921 - Guilherme and His Kites.c</li>
+    <li>URI 2149 - The Uncle Phill Bonati's Sequence.py</li>
+    <li>URI 2218 - The Fearful Evil-Son.py</li>
+    <li>URI 2222 - Playing with Sets.c</li>
+    <li>URI 2232 - Pascal's Triangle.py</li>
+    <li>URI 2497 - Counting Cycles.py</li>
+    <li>URI 2514 - Lunar Alignment.py</li>
+    <li>URI 2596 - Xenlonguinho.c</li>
+    <li>URI 2598 - Placing Radars.py</li>
+  </ol>
+</details>
