@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (290 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (289 Solved)</h3>
   </summary>
   
   <ol>
@@ -34,8 +34,8 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1017 - Fuel Spent.c</li>
     <li>URI 1018 - Banknotes.c</li>
     <li>URI 1019 - Time Conversion.c</li>
-    <li>URI 1020 -Age in Days.c</li>
-    <li>URI 1021 -Banknotes and Coins.c</li>
+    <li>URI 1020 - Age in Days.c</li>
+    <li>URI 1021 - Banknotes and Coins.c</li>
     <li>URI 1022 - TDA Rational.c</li>
     <li>URI 1035 - Selection Test 1.c</li>
     <li>URI 1036 - Bhaskara's Formula.c</li>
@@ -221,7 +221,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2670 - Máquina de Café.c</li>
     <li>URI 2685 - The Change.py</li>
     <li>URI 2702 - Hard Choice.cpp</li>
-    <li>URI 2708 - T    <li>urists in the Huacachina Park.py</li>
+    <li>URI 2708 - Tourists in the Huacachina Park.py</li>
     <li>URI 2709 - The Coins of Robbie.py</li>
     <li>URI 2712 - Vehicular Restriction.c</li>
     <li>URI 2717 - Elf Time.cpp</li>
@@ -232,7 +232,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2748 - Output 2.cpp</li>
     <li>URI 2749 - Output 3.cpp</li>
     <li>URI 2750 - Output 4.cpp</li>
-    <li>URI 2751 - 2751 - Output 5.py</li>
+    <li>URI 2751 - Output 5.py</li>
     <li>URI 2752 - Output 6.py</li>
     <li>URI 2753 - Output 7.py</li>
     <li>URI 2754 - Output 8.py</li>
@@ -270,7 +270,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2867 - Digits.py</li>
     <li>URI 2879 - Desvendando Monty Hall.py</li>
     <li>URI 2896 - Enjoy the Offer.py</li>
-    <li>URI 2930 -  Final Thesis of Christmas Depression.py</li>
+    <li>URI 2930 - Final Thesis of Christmas Depression.py</li>
     <li>URI 2936 - How Much Cassava?.py</li>
     <li>URI 2949 - The Fellowship of the Ring.py</li>
     <li>URI 2950 - The Two Towers.py</li>
@@ -293,7 +293,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 3145 - An unexpected Journey.py</li>
     <li>URI 3146 - Riddles in the Dark.py</li>
     <li>URI 3147 - The Battle of the Five Armies.py</li>
-    <li>URI 3157 -  Long Live Science!.py</li>
+    <li>URI 3157 - Long Live Science!.py</li>
     <li>URI 3170 - Christmas Balls.py</li>
     <li>URI 3174 - Noel's Work Groups.py</li>
     <li>URI 3209 - Electrical Outlets.py</li>
@@ -308,7 +308,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (115 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (116 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
