@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (289 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (288 Solved)</h3>
   </summary>
   
   <ol>
@@ -36,7 +36,6 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1019 - Time Conversion.c</li>
     <li>URI 1020 - Age in Days.c</li>
     <li>URI 1021 - Banknotes and Coins.c</li>
-    <li>URI 1022 - TDA Rational.c</li>
     <li>URI 1035 - Selection Test 1.c</li>
     <li>URI 1036 - Bhaskara's Formula.c</li>
     <li>URI 1037 - Interval.c</li>
