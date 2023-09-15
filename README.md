@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (288 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (289 Solved)</h3>
   </summary>
   
   <ol>
@@ -302,12 +302,13 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 3302 - Correct Answer.py</li>
     <li>URI 3303 - Big Word.py</li>
     <li>URI 3342 - Keanu.py</li>
+    <li>URI 3344 - Brute.py</li>
   </ol>
 </details>
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (117 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (119 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
@@ -379,6 +380,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2058 - Triangles and Regular Polygons.cpp</li>
     <li>URI 2116 - Students Game.py</li>
     <li>URI 2175 - What is the Fastest?.cpp</li>
+    <li>URI 2187 - Bits Exchanged.py</li>
     <li>URI 2217 - Nove.py</li>
     <li>URI 2293 - Campo de Minhocas.py</li>
     <li>URI 2295 - Frota de Táxi.py</li>
@@ -426,16 +428,18 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2928 - Crossing Lakes.py</li>
     <li>URI 3024 - Mountain Ranges.py</li>
     <li>URI 3048 - Sequência Secreta.py</li>
+    <li>URI 3058 - Supermercado.py</li>
   </ol>
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">03. Strings (52 Solved)</h3></summary>
+  <summary><h3 style="display:inline">03. Strings (53 Solved)</h3></summary>
   
   <ol>
     <li>URI 1024 - Encryption.c</li>
     <li>URI 1120 - Contract Revision.c</li>
     <li>URI 1168 - LED.c</li>
+    <li>URI 1222 - Short Story Competition.py</li>
     <li>URI 1234 - Dancing Sentence.c</li>
     <li>URI 1235 - Inside Out.c</li>
     <li>URI 1237 - Compare Substring.py</li>
