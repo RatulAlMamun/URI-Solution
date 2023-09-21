@@ -309,7 +309,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (122 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (123 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
