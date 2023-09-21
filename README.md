@@ -385,6 +385,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2187 - Bits Exchanged.py</li>
     <li>URI 2189 - Kermesse.py</li>
     <li>URI 2217 - Nove.py</li>
+    <li>URI 2247 - Grandma Vitória's Piggy Banks.py</li>
     <li>URI 2293 - Campo de Minhocas.py</li>
     <li>URI 2295 - Frota de Táxi.py</li>
     <li>URI 2312 - Medal Table.py</li>
