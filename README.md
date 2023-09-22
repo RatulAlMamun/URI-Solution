@@ -438,7 +438,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">03. Strings (53 Solved)</h3></summary>
+  <summary><h3 style="display:inline">03. Strings (54 Solved)</h3></summary>
   
   <ol>
     <li>URI 1024 - Encryption.c</li>
@@ -494,6 +494,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2714 - My Temporary Password.py</li>
     <li>URI 2866 - Cryptotext.py</li>
     <li>URI 3300 - Recharged Unlucky Numbers.py</li>
+    <li>URI 3358 - Surname is not Easy.py</li>
   </ol>
 </details>
 
