@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (291 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (292 Solved)</h3>
   </summary>
   
   <ol>
@@ -219,6 +219,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2663 - Fase.py</li>
     <li>URI 2670 - Máquina de Café.c</li>
     <li>URI 2685 - The Change.py</li>
+    <li>URI 2686 - The Change Continues!!.py</li>
     <li>URI 2702 - Hard Choice.cpp</li>
     <li>URI 2708 - Tourists in the Huacachina Park.py</li>
     <li>URI 2709 - The Coins of Robbie.py</li>
