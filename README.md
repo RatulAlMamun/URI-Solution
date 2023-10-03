@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (292 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (293 Solved)</h3>
   </summary>
   
   <ol>
@@ -215,6 +215,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2582 - System of a Download.c</li>
     <li>URI 2626 - JB6 Team.py</li>
     <li>URI 2630 - Greyscale.py</li>
+    <li>URI 2635 - Web Browser.py</li>
     <li>URI 2653 - Dijkstra.py</li>
     <li>URI 2663 - Fase.py</li>
     <li>URI 2670 - Máquina de Café.c</li>
