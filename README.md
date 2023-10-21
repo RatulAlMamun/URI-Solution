@@ -524,7 +524,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">05. Mathmetics (36 Solved)</h3></summary>
+  <summary><h3 style="display:inline">05. Mathmetics (37 Solved)</h3></summary>
   
   <ol>
     <li>URI 1028 - Collectable Cards.c</li>
@@ -540,6 +540,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1221 - Fast Prime Number.c</li>
     <li>URI 1240 - Fit or Dont Fit I.c</li>
     <li>URI 1247 - Coast Guard.py</li>
+    <li>URI 1279 - Leap Year or Not Leap Year and ….py</li>
     <li>URI 1323 - Feynman.py</li>
     <li>URI 1393 - Hexagonal Tiles.py</li>
     <li>URI 1429 - Factorial Again!.py</li>
