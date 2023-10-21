@@ -587,7 +587,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">09. SQL (38 Solved)</h3></summary>
+  <summary><h3 style="display:inline">09. SQL (39 Solved)</h3></summary>
   
   <ol>
     <li>URI 2602 - Basic Select.sql</li>
@@ -627,6 +627,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2990 - Employees CPF.sql</li>
     <li>URI 2993 - Most Frequent.sql</li>
     <li>URI 2994 - How much earn a Doctor?.sql</li>
+    <li>URI 2995 - The Sensor Message.sql</li>
     <li>URI 3001 - Update sem Where.sql</li>
   </ol>
 </details>
