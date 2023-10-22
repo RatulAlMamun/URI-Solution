@@ -524,7 +524,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">05. Mathmetics (41 Solved)</h3></summary>
+  <summary><h3 style="display:inline">05. Mathmetics (42 Solved)</h3></summary>
   
   <ol>
     <li>URI 1028 - Collectable Cards.c</li>
@@ -551,6 +551,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1585 - Making Kites.c</li>
     <li>URI 1620 - Delaunay Triangulation.cpp</li>
     <li>URI 1630 - Stakes.py</li>
+    <li>URI 1641 - Alfredo's Pizza Restaurant.py</li>
     <li>URI 1760 - Koch Snowflake.py</li>
     <li>URI 1761 - Christmas Decorations.py</li>
     <li>URI 1795 - Trinomial Triangle.c</li>
