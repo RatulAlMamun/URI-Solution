@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (293 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (294 Solved)</h3>
   </summary>
   
   <ol>
@@ -307,6 +307,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 3303 - Big Word.py</li>
     <li>URI 3342 - Keanu.py</li>
     <li>URI 3344 - Brute.py</li>
+    <li>URI 3346 - GDP Fluctuation.py</li>
   </ol>
 </details>
 
