@@ -313,7 +313,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (125 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (126 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
@@ -414,6 +414,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2414 - Desafio do Maior Número.py</li>
     <li>URI 2416 - Corrida.py</li>
     <li>URI 2417 - Campeonato.py</li>
+    <li>URI 2418 - Carnaval.py</li>
     <li>URI 2420 - Guerra por Território.py</li>
     <li>URI 2423 - Receita de Bolo.py</li>
     <li>URI 2424 - Tira-teima.py</li>
