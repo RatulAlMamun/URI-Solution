@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (294 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (295 Solved)</h3>
   </summary>
   
   <ol>
@@ -260,6 +260,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2802 - Dividing Circles.py</li>
     <li>URI 2807 - Iccanobif.py</li>
     <li>URI 2808 - Knights Again.py</li>
+    <li>URI 2812 - Laércio.py</li>
     <li>URI 2813 - Avoiding Rain.py</li>
     <li>URI 2826 - Lexical.py</li>
     <li>URI 2845 - Party at the North Pole.py</li>
