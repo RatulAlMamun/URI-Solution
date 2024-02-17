@@ -317,7 +317,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (126 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (127 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
@@ -330,6 +330,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1104 - Exchanging Cards.py</li>
     <li>URI 1105 - Sub-prime.py</li>
     <li>URI 1129 - Optical Reader.py</li>
+    <li>URI 1136 - Bingo!.py</li>
     <li>URI 1140 - Flowers Fl<li>urish from France.py</li>
     <li>URI 1171 - Number Frequence.c</li>
     <li>URI 1192 - Paula's Mathematic Game.py</li>
