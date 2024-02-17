@@ -317,7 +317,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (127 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (128 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
@@ -338,6 +338,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1216 - Getline One.c</li>
     <li>URI 1217 - Getline Two - Fruits.py</li>
     <li>URI 1218 - Getline Three - Shoes.py</li>
+    <li>URI 1228 - Start Grid.py</li>
     <li>URI 1245 - Lost Boots.py</li>
     <li>URI 1250 - KiloMan.py</li>
     <li>URI 1267 - Pascal Library.py</li>
