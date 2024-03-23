@@ -535,7 +535,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">05. Mathmetics (42 Solved)</h3></summary>
+  <summary><h3 style="display:inline">05. Mathmetics (43 Solved)</h3></summary>
   
   <ol>
     <li>URI 1028 - Collectable Cards.c</li>
@@ -577,6 +577,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2514 - Lunar Alignment.py</li>
     <li>URI 2596 - Xenlonguinho.c</li>
     <li>URI 2598 - Placing Radars.py</li>
+    <li>URI 2674 - Super Primes: Engage!.py</li>
     <li>URI 2839 - The Rangel Stockings.py</li>
     <li>URI 2890 - Coloring Tetrahedrons.py</li>
     <li>URI 3049 - Nota Cortada.py</li>
