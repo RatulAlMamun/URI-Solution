@@ -452,7 +452,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">03. Strings (58 Solved)</h3></summary>
+  <summary><h3 style="display:inline">03. Strings (59 Solved)</h3></summary>
   
   <ol>
     <li>URI 1024 - Encryption.c</li>
@@ -476,6 +476,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1272 - Hidden Message.c</li>
     <li>URI 1272 - Hidden Message.py</li>
     <li>URI 1273 - Justifier.cpp</li>
+    <li>URI 1276 - Letter Range.py</li>
     <li>URI 1278 - Justifier II.py</li>
     <li>URI 1332 - One-Two-Three.c</li>
     <li>URI 1367 - Help!.py</li>
