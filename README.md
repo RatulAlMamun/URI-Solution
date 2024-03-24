@@ -452,7 +452,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">03. Strings (57 Solved)</h3></summary>
+  <summary><h3 style="display:inline">03. Strings (58 Solved)</h3></summary>
   
   <ol>
     <li>URI 1024 - Encryption.c</li>
@@ -507,6 +507,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2694 - Problem with the Calculator.c</li>
     <li>URI 2714 - My Temporary Password.py</li>
     <li>URI 2722 - Evergreen Trick.py</li>
+    <li>URI 2815 - Stutterer Digitizer.py</li>
     <li>URI 2866 - Cryptotext.py</li>
     <li>URI 3038 - Encrypted Christmas Letter.py</li>
     <li>URI 3088 - Text Correction.py</li>
