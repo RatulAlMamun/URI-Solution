@@ -538,7 +538,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">05. Mathmetics (43 Solved)</h3></summary>
+  <summary><h3 style="display:inline">05. Mathmetics (44 Solved)</h3></summary>
   
   <ol>
     <li>URI 1028 - Collectable Cards.c</li>
@@ -571,6 +571,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1795 - Trinomial Triangle.c</li>
     <li>URI 1805 - Natural Sum.c</li>
     <li>URI 1921 - Guilherme and His Kites.c</li>
+    <li>URI 2044 - In Debt.py</li>
     <li>URI 2149 - The Uncle Phill Bonati's Sequence.py</li>
     <li>URI 2180 - Travel to Mars in Primo Speed.py</li>
     <li>URI 2218 - The Fearful Evil-Son.py</li>
