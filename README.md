@@ -318,7 +318,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">02. Ad-Hoc (129 Solved)</h3></summary>
+  <summary><h3 style="display:inline">02. Ad-Hoc (130 Solved)</h3></summary>
   
   <ol>
     <li>URI 1026 - To Carry or not to Carry.c</li>
@@ -443,6 +443,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2592 - VaiNaSort.py</li>
     <li>URI 2679 - Even Successor.c</li>
     <li>URI 2682 - Fault Detector.c</li>
+    <li>URI 2868 - Wrrrong!.py</li>
     <li>URI 2926 - So This is Christmas!.py</li>
     <li>URI 2928 - Crossing Lakes.py</li>
     <li>URI 3024 - Mountain Ranges.py</li>
