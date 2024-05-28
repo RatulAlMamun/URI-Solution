@@ -10,7 +10,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 
 <details style="margin-bottom: 10px">
   <summary>
-    <h3 style="display:inline">01. Beginner (301 Solved)</h3>
+    <h3 style="display:inline">01. Beginner (302 Solved)</h3>
   </summary>
   
   <ol>
@@ -252,6 +252,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 2765 - Coming Input and Output.cpp</li>
     <li>URI 2766 - Input and Output Reading and Skipping Names.cpp</li>
     <li>URI 2770 - Board Size.c</li>
+    <li>URI 2774 - Sensor Accuracy.py</li>
     <li>URI 2779 - Album of the Cup.py</li>
     <li>URI 2780 - Robot Basketball.py</li>
     <li>URI 2782 - Stepladder.py</li>
