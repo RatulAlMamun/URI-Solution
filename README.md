@@ -459,7 +459,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
 </details>
 
 <details style="margin-bottom: 10px">
-  <summary><h3 style="display:inline">03. Strings (59 Solved)</h3></summary>
+  <summary><h3 style="display:inline">03. Strings (60 Solved)</h3></summary>
   
   <ol>
     <li>URI 1024 - Encryption.c</li>
@@ -472,6 +472,7 @@ Here, I've added some URI problem solutions that I solved in C, C++, Python and 
     <li>URI 1238 - Combiner.c</li>
     <li>URI 1239 - Bloggo Shortcuts.py</li>
     <li>URI 1241 - Fit or Dont Fit II.c</li>
+    <li>URI 1243 - How Easy.py</li>
     <li>URI 1248 - Diet Plan.py</li>
     <li>URI 1249 - Rot13.c</li>
     <li>URI 1253 - Caesar Cipher.c</li>
